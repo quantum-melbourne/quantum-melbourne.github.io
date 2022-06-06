@@ -1,1 +1,1 @@
-# quantum-melbourne.github.io
+This is a landing page for the Qiskit Hackathon Melbourne.
